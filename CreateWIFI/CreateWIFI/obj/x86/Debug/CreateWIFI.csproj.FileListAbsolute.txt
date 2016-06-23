@@ -1,0 +1,16 @@
+C:\Users\Isfahani\AppData\Local\Temporary Projects\CreateWIFI\obj\x86\Debug\CreateWIFI.Form1.resources
+C:\Users\Isfahani\AppData\Local\Temporary Projects\CreateWIFI\obj\x86\Debug\CreateWIFI.Properties.Resources.resources
+C:\Users\Isfahani\AppData\Local\Temporary Projects\CreateWIFI\obj\x86\Debug\CreateWIFI.csproj.GenerateResource.Cache
+C:\Users\Isfahani\AppData\Local\Temporary Projects\CreateWIFI\bin\Debug\CreateWIFI.exe
+C:\Users\Isfahani\AppData\Local\Temporary Projects\CreateWIFI\bin\Debug\CreateWIFI.pdb
+C:\Users\Isfahani\AppData\Local\Temporary Projects\CreateWIFI\obj\x86\Debug\CreateWIFI.exe
+C:\Users\Isfahani\AppData\Local\Temporary Projects\CreateWIFI\obj\x86\Debug\CreateWIFI.pdb
+C:\Users\Isfahani\documents\visual studio 2010\Projects\CreateWIFI\CreateWIFI\obj\x86\Debug\CreateWIFI.exe
+C:\Users\Isfahani\documents\visual studio 2010\Projects\CreateWIFI\CreateWIFI\obj\x86\Debug\CreateWIFI.pdb
+C:\Users\Isfahani\documents\visual studio 2010\Projects\CreateWIFI\CreateWIFI\bin\Debug\CreateWIFI.exe
+C:\Users\Isfahani\documents\visual studio 2010\Projects\CreateWIFI\CreateWIFI\bin\Debug\CreateWIFI.pdb
+C:\Users\Isfahani\documents\visual studio 2010\Projects\CreateWIFI\CreateWIFI\obj\x86\Debug\CreateWIFI.Form1.resources
+C:\Users\Isfahani\documents\visual studio 2010\Projects\CreateWIFI\CreateWIFI\obj\x86\Debug\CreateWIFI.Properties.Resources.resources
+C:\Users\Isfahani\documents\visual studio 2010\Projects\CreateWIFI\CreateWIFI\obj\x86\Debug\CreateWIFI.csproj.GenerateResource.Cache
+C:\Users\Isfahani\documents\visual studio 2010\Projects\CreateWIFI\CreateWIFI\obj\x86\Debug\Interop.Shell32.dll
+C:\Users\Isfahani\documents\visual studio 2010\Projects\CreateWIFI\CreateWIFI\obj\x86\Debug\CreateWIFI.csproj.ResolveComReference.cache
